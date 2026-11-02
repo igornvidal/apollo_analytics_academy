@@ -1,2 +1,3 @@
-# apollo_analytics_academy
-Códigos produzidos na Apollo Analytics Academy
+# Apollo Analytics Academy
+Aqui você encontra todos os códigos produzidos na Apollo Analytics Academy
+## Python usados nos posts do Instagram
